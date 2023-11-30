@@ -164,3 +164,11 @@ justify-content: end;
  width: 100px;
  height: 100px;
 }
+.titulo{
+    display: grid;
+    align-items: center;
+}
+.Mandioca{
+    width: 60%;
+    align-items: center;
+}
